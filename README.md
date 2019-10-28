@@ -1,6 +1,6 @@
 # Emoji Mosaic
 
-Turn an image into a mosaic made of emojis.
+将图像变成由表情符号制成的马赛克。
 
 [演示网站](https://huangenet.github.io/emoji-mosaic/)
 
